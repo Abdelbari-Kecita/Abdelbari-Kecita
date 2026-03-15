@@ -67,13 +67,13 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
 
 ![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=github_dark&hide_border=false&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=true&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=false&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=false&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
 
 </div>
 
