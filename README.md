@@ -48,11 +48,25 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-<br/>
+</div>
 
-![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFA6&text_color=ffffff&langs_count=8)
+![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=true&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdelbari-Kecita&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/Abdelbari-Kecita)
 
 </div>
 
@@ -60,7 +74,7 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
 
 ## ðŸ“ˆ Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdelbari-Kecita&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelbari-Kecita&bg_color=0D1117&color=00FFA6&line=00FFA6&point=FFFFFF&hide_border=true)](https://github.com/Abdelbari-Kecita)
 
 ---
 
