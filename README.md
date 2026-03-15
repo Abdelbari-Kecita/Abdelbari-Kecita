@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
 
 <div align="center">
 
@@ -100,4 +100,4 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer" width="100%" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer)
