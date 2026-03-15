@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFA6&center=true&vCenter=true&width=750&height=80&lines=Hi+There!+I'm+Abdelbari+Kecita+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Developer;Building+Smart+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
