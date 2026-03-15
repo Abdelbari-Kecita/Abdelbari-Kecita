@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%2526%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -26,27 +26,19 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** �
 
 ### 🌐 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&perline=8" />
-</p>
+[![Frontend Skills](https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### 🤖 AI/ML & Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask&perline=8" />
-</p>
+[![AI/ML Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel&perline=8" />
-</p>
+[![Cloud Skills](https://skillicons.dev/icons?i=gcp,docker,vercel)](https://skillicons.dev)
 
 ### 🗄️ Tools & Design
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma&perline=8" />
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 ---
 
