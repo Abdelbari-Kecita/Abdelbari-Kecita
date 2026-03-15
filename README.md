@@ -100,7 +100,7 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** �
 
 *"Code is not just logic — it's craft."* 💻
 
-<img src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/snake.svg" alt="Snake animation" />
+<picture>   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake-dark.svg" />   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake.svg" />   <img alt="Snake animation" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake.svg" /> </picture>
 
 </div>
 
