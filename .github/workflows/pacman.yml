@@ -14,11 +14,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@v1.0.0
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Abdelbari-Kecita
         env:
