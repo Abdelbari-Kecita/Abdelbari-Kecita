@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** 🇶🇦, passionate about building full-stack web & mobile apps and AI/ML solutions that solve real problems. I love shipping products — from idea to cloud-deployed reality.
+I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 🇶🇦, passionate about building full-stack web & mobile apps and AI/ML solutions that solve real problems. I love shipping products — from idea to cloud-deployed reality.
 
 - 🌱 Learning **Mobile/Web App Development** & **Advanced ML Architectures**
 - 💬 Ask me about **React**, **Python**, **AI/ML integration**, or **Cloud deployment**
