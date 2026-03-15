@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=200&section=header&text=Abdelbari%20Kecita&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%2FML%20Developer&descAlignY=58&descSize=20&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=200&section=header&text=Abdelbari%20Kecita&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%2FML%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -101,4 +101,4 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
 </picture>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer" width="100%" />
