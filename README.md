@@ -122,7 +122,8 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** �
 ## 🕹️ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/pacman-contribution-graph-light.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-light.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
+  
