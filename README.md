@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%2526%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <div align="center">
 
