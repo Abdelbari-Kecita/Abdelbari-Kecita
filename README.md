@@ -95,7 +95,7 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** ðŸ‡
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
