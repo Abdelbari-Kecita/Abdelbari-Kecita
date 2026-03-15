@@ -25,10 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Push pacman SVG to output branch
+      - name: Push pacman SVG to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: pacman-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
