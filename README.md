@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:0066FF&height=180&section=header&text=Abdelbari%20Kecita&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFA6&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Abdelbari+Kecita+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Developer;Building+Smart+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,34 +26,27 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** üá
 
 ### üåê Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&perline=8" />
+</p>
 
 ### ü§ñ AI/ML & Backend
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask&perline=8" />
+</p>
 
 ### ‚òÅÔ∏è Cloud & DevOps
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel&perline=8" />
+</p>
 
 ### üóÑÔ∏è Tools & Design
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma&perline=8" />
+</p>
 
 ---
 
@@ -61,25 +56,11 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** üá
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-</div>
+<br/>
 
-<div align="center">
+![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff)
 
-![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=true&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
-
-</div>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdelbari-Kecita&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/Abdelbari-Kecita)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFA6&text_color=ffffff&langs_count=8)
 
 </div>
 
@@ -87,7 +68,7 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** üá
 
 ## üìà Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelbari-Kecita&bg_color=0D1117&color=00FFA6&line=00FFA6&point=FFFFFF&hide_border=true)](https://github.com/Abdelbari-Kecita)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdelbari-Kecita&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
 
 ---
 
@@ -123,7 +104,8 @@ I'm **Abdelbari Kecita**, a Computer Science student at **Qatar University** üá
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer" width="100%" />
