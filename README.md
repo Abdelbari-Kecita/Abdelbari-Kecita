@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelbari-Kecita&label=Profile%20Views&color=00FFA6&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abdelbari-Kecita&label=Profile%20Views&color=00FFA6&style=for-the-badge)](https://github.com/Abdelbari-Kecita)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 🇶🇦, passionate about building full-stack web & mobile apps and AI/ML solutions that solve real problems. I love shipping products — from idea to cloud-deployed reality.
+I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 🇯🇦, passionate about building full-stack web & mobile apps and AI/ML solutions that solve real problems. I love shipping products — from idea to cloud-deployed reality.
 
 - 🌱 Learning **Mobile/Web App Development** & **Advanced ML Architectures**
 - 💬 Ask me about **React**, **Python**, **AI/ML integration**, or **Cloud deployment**
@@ -44,31 +44,19 @@ I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=true&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
+</p>
 
-<div align="center">
-
-![Abdelbari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelbari-Kecita&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelbari-Kecita&layout=compact&theme=github_dark&hide_border=true&title_color=00FFA6&text_color=ffffff&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6)
-
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abdelbari-Kecita&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6"/>
+</p>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdelbari-Kecita&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/Abdelbari-Kecita)
-
-</div>
 
 ---
 
@@ -80,11 +68,7 @@ I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 
 
 ## 💬 Random Dev Quote
 
-<div align="center">
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -96,21 +80,10 @@ I'm **Abdelbari Kecita**, a Computer Science graduate from **Qatar University** 
 
 ---
 
-<div align="center">
-
 *"Code is not just logic — it's craft."* 💻
 
-<picture>   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake-dark.svg" />   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake.svg" />   <img alt="Snake animation" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/output/github-snake.svg" /> </picture>
-
-</div>
+<!-- Snake animation -->
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Abdelbari-Kecita/Abdelbari-Kecita/pacman-output/pacman-contribution-graph-dark.svg">
-</picture>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFA6&height=120&section=footer" width="100%" />
+<!-- Pac-Man contribution graph -->
